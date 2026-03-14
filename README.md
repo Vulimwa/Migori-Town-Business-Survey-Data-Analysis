@@ -47,7 +47,7 @@ This project analyzes business survey data collected in Migori during the 2025/2
 - Raw data: `Raw Data/MIGORI STUDIO 2025_26 - Business Questionnaire.csv`
 - Analysis notebook: `Business_Questionnaire/business.ipynb`
 
-# Locating the Analysis File
+## Locating the Analysis File
 
 The analysis for this project can be found in the following file:
 
