@@ -47,6 +47,15 @@ This project analyzes business survey data collected in Migori during the 2025/2
 - Raw data: `Raw Data/MIGORI STUDIO 2025_26 - Business Questionnaire.csv`
 - Analysis notebook: `Business_Questionnaire/business.ipynb`
 
+# Locating the Analysis File
+
+The analysis for this project can be found in the following file:
+
+- **File Name:** `business.ipynb`
+- **Location:** `Business_Questionnaire/` directory
+
+Open this Jupyter Notebook to view the full analysis and results.
+
 ## Notes
 
 - Oruba has a very small sample size (3 records), which may skew comparisons.
