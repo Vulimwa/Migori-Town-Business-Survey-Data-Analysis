@@ -33,6 +33,20 @@ This project analyzes business survey data collected in Migori during the 2025/2
 - **SQL (ipython-sql, pymysql)** for data cleaning, transformation, and analysis.
 - **Power BI** for interactive dashboard development.
 
+## Results Visualizations
+
+### 1. Overview Dashboard
+
+![Overview Dashboard](results/overview_dashboard.png)
+
+### 2. Socio-Economic Profile
+
+![Socio-Economic Profile](results/Socio_economic_profile.png)
+
+### 3. Interventions
+
+![Interventions](results/interventions.png)
+
 ## How to Reproduce
 
 1. Install required Python packages:
