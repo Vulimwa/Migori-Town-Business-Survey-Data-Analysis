@@ -9,7 +9,7 @@ This project analyzes business survey data collected in Migori during the 2025/2
 1. **Data Preparation (SQL):**
    - Clean and standardize raw survey data.
    - Correct inconsistent responses, handle missing values, and organize categorical variables.
-   - Drop irrelevant columns and standardize values (e.g., gender, spaces, N/A values).
+   - Drop irrelevant columns and standardize values (e.g., name, Admission numbers, spaces, N/A values).
 2. **Data Transformation:**
    - Use SQL aggregation to generate summary statistics (e.g., business sector, ownership, gender, years of operation, constraints).
    - Normalize and categorize data (e.g., employee size, business category).
